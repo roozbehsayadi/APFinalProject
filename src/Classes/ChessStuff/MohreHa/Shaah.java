@@ -15,7 +15,7 @@ public class Shaah extends Piece {
 
     @Override
     public ArrayList<Block> validBlocks(ChessBoard chessBoard) {
-
+        return null;
     }
 
 }
