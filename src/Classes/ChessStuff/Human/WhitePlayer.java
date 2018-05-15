@@ -1,4 +1,4 @@
-package Classes.ChessStuff.Player;
+package Classes.ChessStuff.Human;
 
 import Classes.ChessStuff.SafHe.ChessBoard;
 

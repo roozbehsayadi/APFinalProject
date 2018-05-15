@@ -1,9 +1,9 @@
 
-package Classes.ChessStuff.Player;
+package Classes.ChessStuff.Human;
 
 import Classes.ChessStuff.SafHe.ChessBoard;
 
-public interface Player {
+public interface Player extends Human {
 
     ChessBoard makeMove( ChessBoard chessBoard );
 

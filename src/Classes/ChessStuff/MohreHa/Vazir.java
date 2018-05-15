@@ -15,7 +15,7 @@ public class Vazir extends Piece {
 
     @Override
     public ArrayList<Block> validBlocks(ChessBoard chessBoard) {
-
+        return null;
     }
 
 }
