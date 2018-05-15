@@ -16,4 +16,5 @@ public class Rokh extends Piece {
     public ArrayList<Block> validBlocks(ChessBoard chessBoard) {
         return null;
     }
+
 }
